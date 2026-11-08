@@ -1,0 +1,15 @@
+# Sinapse
+
+Website de notícias e dicas sobre IA.
+
+## Estrutura
+
+- `index.html` – página inicial
+- `noticia.html` – página de notícia
+- `categoria.html` – listagem por categoria
+- `dicas.html` – dicas
+- `contactos.html` – contactos
+- `css/estilo.css` – estilos
+- `js/main.js` – scripts
+- `img/` – imagens
+- `dados/` – dados
