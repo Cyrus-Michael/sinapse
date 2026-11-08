@@ -1,0 +1,9 @@
+# Histórico local (VS Code Local History)
+.history/
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
